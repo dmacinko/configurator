@@ -1,3 +1,0 @@
-/*
-završni rad - pitup
-*/
